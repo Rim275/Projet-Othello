@@ -1,4 +1,4 @@
-# Projet Othello - Groupe 33
+# Projet Othello 
 
 Ce projet est une implémentation locale du jeu de société **Othello** en Java, jouable en ligne de commande. Il a été réalisé par le groupe 33, composé de :
 
